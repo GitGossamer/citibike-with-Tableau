@@ -1,5 +1,6 @@
 # citibike-with-Tableau
 Mod 14
+Link to Tableau viz: https://public.tableau.com/views/NYC_Citibike_Challenge_16486041156830/GeneralStatistics?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
 
 # Overview of the statistical analysis: The purpose of the analysis is well defined. (5 pt)
 In an effort to create a business model for a shared, public bike rider service – “DM BIKESHARE” – in hometown Des Moines, IA, we analyze how citibike operates within NYC, and then will create a business proposal for setting up in Des Moines. The visualizations that we include in this will show rider demographics and other pertinent rider data to help support our idea for DM BIKESHARE.
