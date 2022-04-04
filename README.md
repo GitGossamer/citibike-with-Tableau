@@ -17,7 +17,7 @@ This viz shows similar data to the above, only broken down by gender.
 ![Trips by Gender](https://user-images.githubusercontent.com/96449605/161613338-887a13ea-4716-4359-a571-4cae81ca5373.png)
  
 This viz shows similar data to the above, only broken down by gender by weekday rather than by hourly.
- ![Trips by Weekday](https://user-images.githubusercontent.com/96449605/161613398-ed8f415d-4793-4d43-af78-06d4f4ed3b96.png)
+![Trips by Gender by Weekday](https://user-images.githubusercontent.com/96449605/161613668-73ad8a07-3a50-4a7e-888f-8c67c914aef9.png)
 
 The below viz shows average trip duration by birth year. Mousing over the viz will also display the rider age.
  ![Avg Trip Duration](https://user-images.githubusercontent.com/96449605/161613450-c65ac301-c883-4e98-850f-c48efd26d0a7.png)
